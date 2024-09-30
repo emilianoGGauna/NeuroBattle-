@@ -55,6 +55,7 @@ A continuación, te proporcionamos algunos recursos útiles para que puedas inve
 
 4. **Descarga el Modelo Entrenado**:
    - Guarda el modelo entrenado para que esté listo para ser evaluado el día de la prueba.
+   - Asegúrate de que el modelo esté completamente funcional, incluyendo el código de preprocesamiento y predicción, para que esté **listo para realizar pruebas** con el conjunto de imágenes proporcionadas el día de la competencia.
 
 5. **Prueba Final**:
    - El día de la competencia, se te proporcionará un conjunto de imágenes de prueba. ¡El modelo con mejor precisión ganará!

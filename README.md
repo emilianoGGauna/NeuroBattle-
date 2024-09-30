@@ -1,6 +1,7 @@
 # Neurobattle
 
-Para más info y registro, visita: [Formulario de Inscripción](https://docs.google.com/forms/d/e/1FAIpQLScpJI5O85D6ixdwE-t8eG-A0p42V5jrJM8FoGm5zPtrIC_pqA/viewform?usp=sf_link) 🌐.
+Para más info y registro, visita: [Formulario de Inscripción](https://docs.google.com/forms/d/e/1FAIpQLScpJI5O85D6ixdwE-t8eG-A0p42V5jrJM8FoGm5zPtrIC_pqA/viewform?usp=sf_link) 🌐.  
+**Nota**: Solo puedes acceder con tu correo institucional del **Tecnológico de Monterrey** (@tec.mx).
 
 ## 🚀 ¡Pon a prueba tu creatividad en Redes Neuronales!
 
@@ -13,8 +14,9 @@ Para más info y registro, visita: [Formulario de Inscripción](https://docs.goo
 
 ### 📅 Detalles que no puedes olvidar:
 - **Fecha**: Del **16 al 20 de octubre**. Serán 5 días llenos de emoción y creatividad 💥.
-- **Equipos**: Máximo **4 personas**. Reúne a tus amigos, compañeros o cualquier persona que esté lista para ganar 🧑‍💻.
+- **Equipos**: Máximo **4 personas**.
 
 ### 🎉 ¿Qué esperas?
-Inscríbete ahora, reúne a tu equipo y demuestra lo que puedes hacer. ¡No es solo sobre ganar, es sobre crear algo genial juntos! 🙌
+Inscríbete ahora y demuestra lo que puedes hacer. ¡No es solo sobre ganar, es sobre crear algo genial juntos! 🙌
+
 

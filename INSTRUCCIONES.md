@@ -23,46 +23,24 @@ El objetivo es crear un modelo de clasificación de imágenes utilizando **redes
    - El **16 de octubre** es el día de la prueba final, donde cada equipo deberá presentar su modelo.
    - Los **mejores modelos serán seleccionados** con base en su desempeño frente al set de imágenes de prueba.
 
-## 🔬 **Técnicas Importantes de Visión por Computadora y CNNs**
-
-Para guiarte en la creación de tu modelo, te recomendamos aplicar las siguientes técnicas:
-
-- **Normalización y Preprocesamiento de Imágenes**:
-  - Asegúrate de que tus imágenes estén correctamente escaladas y normalizadas antes de entrenar el modelo.
-  
-- **Aumento de Datos**:
-  - Implementa técnicas de aumento de datos como rotación, escalado y cambio de brillo para mejorar la generalización del modelo.
-
-- **Capas Convolucionales**:
-  - Crea una arquitectura que utilice **capas convolucionales** para extraer características clave de las imágenes.
-
-- **Pooling**:
-  - Utiliza capas de **max pooling** para reducir la dimensionalidad y acelerar el proceso de entrenamiento.
-
-- **Función de Activación**:
-  - Emplea activaciones no lineales como **ReLU** para introducir no linealidad en el modelo.
-
-- **Dropout**:
-  - Implementa **dropout** para reducir el riesgo de sobreajuste durante el entrenamiento.
-
-- **Optimización**:
-  - Utiliza algoritmos de optimización como **Adam** o **SGD** para entrenar tu modelo.
-
 ## 📚 **Recursos y Materiales para Investigar** 📚
 
 A continuación, te proporcionamos algunos recursos útiles para que puedas investigar más sobre estos temas y mejorar tu modelo de clasificación de imágenes.
 
 ### 🌐 **Artículos y Guías:**
-1. [Introducción a Redes Neuronales Convolucionales (CNN)](https://medium.com/@sidereal/cnn-architectures-deep-dive-for-beginners-1e1669f2b0be)
-2. [Guía de Redes Neuronales Convolucionales para Principiantes](https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-56b26ea2e705)
+1. [Introducción a Redes Neuronales Convolucionales – GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-convolutions-using-python/) - Una guía accesible y detallada sobre las redes neuronales convolucionales con ejemplos en Python.
+2. [Introducción a Redes Neuronales Convolucionales (CNN) – Papers with Code](https://paperswithcode.com/method/convolutional-neural-network) - Descripción clara de las CNNs y sus aplicaciones, con enlaces a código relevante.
 
-### 🎥 **Videos y Cursos:**
-1. [Convolutional Neural Networks – Coursera (Stanford University)](https://www.coursera.org/learn/convolutional-neural-networks) - Un curso completo para aprender CNNs desde cero.
-2. [Build a Neural Network with TensorFlow - YouTube](https://www.youtube.com/watch?v=tPYj3fFJGjk) - Tutorial paso a paso para construir una red neuronal usando TensorFlow.
+### 🎥 **Videos y Cursos en YouTube:**
+1. [Build a Neural Network with TensorFlow - YouTube](https://www.youtube.com/watch?v=tPYj3fFJGjk) - Tutorial paso a paso para construir una red neuronal usando TensorFlow.
+2. [Convolutional Neural Networks Explained - YouTube](https://www.youtube.com/watch?v=YRhxdVk_sIs) - Explicación clara y directa sobre cómo funcionan las CNNs.
+3. [How CNNs Work - YouTube](https://www.youtube.com/watch?v=aircAruvnKk) - Explicación técnica detallada sobre el funcionamiento de las CNNs.
+4. [Image Classification with CNN - Python Programming - YouTube](https://www.youtube.com/watch?v=deyyYnYn3gM) - Video sobre cómo implementar la clasificación de imágenes usando redes neuronales convolucionales en Python.
 
 ### 🔧 **Herramientas y Frameworks**:
 1. [TensorFlow Documentation](https://www.tensorflow.org/tutorials/images/cnn) - Documentación oficial para construir y entrenar CNNs con TensorFlow.
-2. [PyTorch Tutorials](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html) - Guía para trabajar con CNNs usando PyTorch.
+2. [PyTorch Documentation](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html) - Guía actualizada de PyTorch para implementar CNNs.
+
 
 ## 🏁 **Proceso a Seguir**
 

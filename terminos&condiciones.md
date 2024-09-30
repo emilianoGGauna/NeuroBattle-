@@ -52,6 +52,6 @@ Al seleccionar la casilla "Sí, acepto" en el formulario de inscripción, los pa
 - Entienden que cualquier incumplimiento de estos términos puede resultar en su descalificación de la competencia y en **acciones legales** conforme a la legislación mexicana.
 
 ### Casilla de verificación:
-- [ ] **Sí, acepto los términos y condiciones**
+- [ ] **Sí, acepto**
 
-Al seleccionar "Sí, acepto", te comprometes a aceptar todas las cláusulas mencionadas en este documento, incluidas las responsabilidades legales y el acuerdo de no divulgación. De no cumplir con los términos, podrías enfrentar sanciones legales según las normativas vigentes en México.
+Al seleccionar "Sí, acepto" en [Formulario](https://docs.google.com/forms/d/e/1FAIpQLScpJI5O85D6ixdwE-t8eG-A0p42V5jrJM8FoGm5zPtrIC_pqA/viewform?usp=sf_link), te comprometes a aceptar todas las cláusulas mencionadas en este documento, incluidas las responsabilidades legales y el acuerdo de no divulgación. De no cumplir con los términos, podrías enfrentar sanciones legales según las normativas vigentes en México.

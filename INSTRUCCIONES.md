@@ -48,6 +48,22 @@ Para guiarte en la creación de tu modelo, te recomendamos aplicar las siguiente
 - **Optimización**:
   - Utiliza algoritmos de optimización como **Adam** o **SGD** para entrenar tu modelo.
 
+## 📚 **Recursos y Materiales para Investigar** 📚
+
+A continuación, te proporcionamos algunos recursos útiles para que puedas investigar más sobre estos temas y mejorar tu modelo de clasificación de imágenes.
+
+### 🌐 **Artículos y Guías:**
+1. [Introducción a Redes Neuronales Convolucionales (CNN)](https://medium.com/@sidereal/cnn-architectures-deep-dive-for-beginners-1e1669f2b0be)
+2. [Guía de Redes Neuronales Convolucionales para Principiantes](https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-56b26ea2e705)
+
+### 🎥 **Videos y Cursos:**
+1. [Convolutional Neural Networks – Coursera (Stanford University)](https://www.coursera.org/learn/convolutional-neural-networks) - Un curso completo para aprender CNNs desde cero.
+2. [Build a Neural Network with TensorFlow - YouTube](https://www.youtube.com/watch?v=tPYj3fFJGjk) - Tutorial paso a paso para construir una red neuronal usando TensorFlow.
+
+### 🔧 **Herramientas y Frameworks**:
+1. [TensorFlow Documentation](https://www.tensorflow.org/tutorials/images/cnn) - Documentación oficial para construir y entrenar CNNs con TensorFlow.
+2. [PyTorch Tutorials](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html) - Guía para trabajar con CNNs usando PyTorch.
+
 ## 🏁 **Proceso a Seguir**
 
 1. **Preprocesa tus Imágenes**:
@@ -72,3 +88,4 @@ Este proyecto no solo se trata de ganar, sino de crear algo increíble con tu eq
 ---
 
 ¡Buena suerte a todos los participantes! 🚀
+

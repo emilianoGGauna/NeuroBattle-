@@ -1,5 +1,7 @@
 # Neurobattle
 
+Para más info y registro, visita: [Formulario de Inscripción](https://docs.google.com/forms/d/e/1FAIpQLScpJI5O85D6ixdwE-t8eG-A0p42V5jrJM8FoGm5zPtrIC_pqA/viewform?usp=sf_link) 🌐.
+
 ## 🚀 ¡Pon a prueba tu creatividad en Redes Neuronales!
 
 ¿Listo para un reto increíble? Este es tu momento de crear, competir y, lo más importante, ¡divertirte con las redes neuronales! 🎉
@@ -15,6 +17,4 @@
 
 ### 🎉 ¿Qué esperas?
 Inscríbete ahora, reúne a tu equipo y demuestra lo que puedes hacer. ¡No es solo sobre ganar, es sobre crear algo genial juntos! 🙌
-
-Para más info y registro, visita: [Formulario de Inscripción](https://docs.google.com/forms/d/e/1FAIpQLScpJI5O85D6ixdwE-t8eG-A0p42V5jrJM8FoGm5zPtrIC_pqA/viewform?usp=sf_link) 🌐.
 
